@@ -1,10 +1,28 @@
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/TU_USUARIO/count.svg"/>
-  <br/>
-</div>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=212121&color=ffffff&line=404db0&point=ffcd42&area=true&hide_border=true"/>
-</div>
+# ¡Hola! Soy Lautaro Liendo 👋
+
+Soy un **Programador Full Stack** recientemente graduado, apasionado por el desarrollo web y la creación de soluciones eficientes. Actualmente me encuentro en la búsqueda de mi primera oportunidad profesional en el sector IT.
+
+## 🚀 Sobre mí
+- 💻 Me enfoco en desarrollar aplicaciones robustas con buenas prácticas de arquitectura.
+- 🌱 Disfruto resolver problemas complejos y mantener el código limpio.
+- 🤝 Estoy abierto a oportunidades de trabajo a tiempo completo y colaboraciones en equipo.
+
+## 🛠️ Mi Stack Tecnológico
+- **Lenguajes:** TypeScript, JavaScript, C#
+- **Frontend:** React, HTML, CSS, Blazor WASM
+- **Backend:** Minimal APIs (C#)
+- **Bases de Datos:** SQLite, Entity Framework Core (EF Core)
+- **Herramientas:** Git, GitHub
+
+## 📁 Proyectos Destacados
+
+1. **[Local de Bebidas CRUD](Link a tu repo)**
+   - *Sistema de gestión de ventas e inventario enfocado en escalabilidad y buenas prácticas de backend.*
+   - **Tecnologías:** TypeScript.
+2. **[Sistema Full Stack en C#](Link a tu repo)**
+   - *Aplicación completa implementando arquitectura moderna de Microsoft.*
+   - **Tecnologías:** Blazor WASM, Minimal API, EF Core, SQLite.
+
+## 📫 Cómo contactarme
+- **LinkedIn:** [Tu Nombre en LinkedIn](Link a tu perfil)
+- **Email:** tu.email@ejemplo.com
