@@ -25,13 +25,5 @@ Me esfuerzo por mantenerme constantemente actualizado con nuevas tecnologías, a
 ### Herramientas & Entorno
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
----
-
-# 📊 Estadísticas de GitHub:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLiendo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LautaroLiendo&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
 
 <!-- Proudly tailored for Lautaro Liendo -->
