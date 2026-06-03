@@ -1,3 +1,8 @@
+<div align="right">
+  <a href="https://github.com/LautaroLiendo/LautaroLiendo/blob/main/README.en.md">
+    <img src="https://img.shields.io/badge/Read_in-English-blue?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Read in English">
+  </a>
+</div>
 <h1 align="center">¡Hola! Soy Lautaro Liendo 👋</h1>
 
 # 💫 Un poco sobre mí:
