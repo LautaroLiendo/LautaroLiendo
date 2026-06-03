@@ -8,9 +8,7 @@
 
 # 💫 A little about me:
 
-I am a **University Technician in Programming** and a Full Stack Developer focused on building robust, scalable, and well-designed systems. I enjoy solving complex problems and transforming ideas into functional solutions through clean, maintainable, and efficient code.
-
-I strive to stay constantly updated with new technologies, modular architectures, and agile methodologies to contribute effectively to innovative, high-performance projects. I seek excellence in every line of code and am committed to continuous learning to tackle new professional challenges.
+"I am a University Technician in Programming and a Full Stack Developer focused on building robust, scalable, and well-designed systems. I enjoy solving complex problems and transforming ideas into functional solutions through clean, maintainable, and efficient code. I complement this technical background with hands-on experience in Artificial Intelligence and as a chatbot prompter, which allows me to bring an innovative approach to integrating cutting-edge technologies. I strive to stay constantly updated with new technologies, modular architectures, and agile methodologies to contribute effectively to innovative, high-performance projects. I seek excellence in every line of code and am committed to continuous learning to tackle new professional challenges."
 
 ## 🌐 Social Media & Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lautaroliendo) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) 
