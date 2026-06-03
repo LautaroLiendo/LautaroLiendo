@@ -33,11 +33,4 @@ I strive to stay constantly updated with new technologies, modular architectures
 
 ---
 
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LautaroLiendo&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=LautaroLiendo&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
 <!-- Proudly tailored for Lautaro Liendo -->
