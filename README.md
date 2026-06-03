@@ -7,9 +7,7 @@
 
 # 💫 Un poco sobre mí:
 
-Soy un **Técnico Universitario en Programación** y Desarrollador Full Stack enfocado en construir sistemas robustos, escalables y bien diseñados. Disfruto resolver problemas complejos y transformar ideas en soluciones funcionales mediante código limpio, mantenible y eficiente. 
-
-Me esfuerzo por mantenerme constantemente actualizado con nuevas tecnologías, arquitecturas modulares y metodologías ágiles para contribuir con impacto en proyectos innovadores y de alto rendimiento. Busco la excelencia en cada línea de código y me comprometo a aprender de forma continua para enfrentar nuevos desafíos profesionales.
+"Soy un Técnico Universitario en Programación y Desarrollador Full Stack enfocado en construir sistemas robustos, escalables y bien diseñados. Disfruto resolver problemas complejos y transformar ideas en soluciones funcionales mediante código limpio, mantenible y eficiente. A este perfil le sumo experiencia práctica en el manejo de Inteligencia Artificial y como prompter de chatbots, lo que me permite aportar una visión innovadora para integrar tecnologías de vanguardia. Me esfuerzo por mantenerme constantemente actualizado con nuevas tecnologías, arquitecturas modulares y metodologías ágiles para contribuir con impacto en proyectos innovadores y de alto rendimiento. Busco la excelencia en cada línea de código y me comprometo a aprender de forma continua para enfrentar nuevos desafíos profesionales."
 
 ## 🌐 Redes Sociales y Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lautaroliendo) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_correo@gmail.com) 
