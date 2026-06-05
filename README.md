@@ -11,7 +11,8 @@
 
 ## 🌐 Redes Sociales y Contacto:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-liendo) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liendolautaro@gmail.com)
+* 💼 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lautaro-liendo) — [linkedin.com/in/lautaro-liendo](https://www.linkedin.com/in/lautaro-liendo)
+* 📧 **Email:** [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:liendolautaro@gmail.com) — [liendolautaro@gmail.com](mailto:liendolautaro@gmail.com)
 
 ---
 
